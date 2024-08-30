@@ -8,7 +8,7 @@ We shared our model on the [OneDrive](https://1drv.ms/f/s!Avelnwj9jiVSiZpPzkjy74
 
 If you don't have a robot yet, you can still test our framework by recording videos with your phone. There are our example video recorded through mobile phone in the folder `demo_video`. Directly run `deploy.py`:
 
-    python deploy. py
+    python deploy.py
 
 You can achieve the following effect and you can also simply transplant this example to your own robot platform for experimentation.
 
