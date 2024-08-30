@@ -10,6 +10,6 @@ If you don't have a robot yet, you can still test our framework by recording vid
 
     python deploy.py
 
-You can achieve the following effect and you can also simply transplant this example to your own robot platform for experimentation.
+You can achieve the following effect and you can also simply transplant this example to your own robot platform for experimentation. Green is a group of good candidate trajectories, blue is the trajectory to choose, and red is a group of bad  trajectories.
 
 https://github.com/user-attachments/assets/0e616ff6-bb04-4a73-9509-aee557fb26e5
